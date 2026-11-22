@@ -1,0 +1,17 @@
+{
+  "name": "principal-portfolio",
+  "version": "1.0.0",
+  "description": "Principal Portfolio Web Application matching institutional design specifications",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "portfolio",
+    "education",
+    "institutional",
+    "principal"
+  ],
+  "author": "",
+  "license": "ISC"
+}
